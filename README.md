@@ -1,42 +1,18 @@
-### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
+### Hi there, I'm Jane Doe! 👋
+I'm a software developer with expertise in full-stack development. I enjoy working with JavaScript frameworks, building APIs, and exploring cloud technologies. Currently, I'm focusing on contributing to open source and building my portfolio.
 
----
-<h1 align="center">I'm Victor Abuke</h1>
+### 🛠️ Tech Stack:
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Check out my portfolio-website :point_right: [Click Here](https://victor-abuke.vercel.app/)
+### 🏆 Projects I'm Proud Of:
+- **[Cool App](https://github.com/janedoe/coolapp)**: A real-time chat app built with React and Firebase. It features user authentication, media sharing, and more!
+- **[Portfolio Website](https://github.com/janedoe/portfolio)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomitokko&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
----
-### About Me
-
-- I'm a web developer and I use **Django**
-
-- I create programming based tutorials on my [Youtube Channel](https://www.youtube.com/c/CodeWithTomi)
-
-- I also write technical articles on [My Blog](https://www.codewithtomi.com/)
-
----
-## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronos91&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chronos91&show_icons=true&locale=en" alt="chronos91" /></p>
-
-<!--
-**tomitokko/tomitokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect:
+- LinkedIn: [Jane Doe](https://linkedin.com/in/janedoe)
+- Twitter: [@janedoe](https://twitter.com/janedoe)
+- Email: jane.doe@example.com
