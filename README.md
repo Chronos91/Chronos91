@@ -9,10 +9,11 @@ I love to build cool things.
 - **CI/CD**: ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### 🏆 Projects I'm Proud Of:
-- **[Netflix Clone](https://github.com/janedoe/netflix-clone)**: A clone of Netflix featuring user authentication, movie streaming, and recommendations.
-- **[Weather App](https://github.com/janedoe/weather-app)**: A weather application providing real-time weather updates and forecasts.
-- **[Social Media App](https://github.com/janedoe/social-media-app)**: A social media platform with user profiles, posts, and interactions.
-- **[Portfolio Website](https://github.com/janedoe/portfolio)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
+- **[Netflix Clone](https://github.com/Chronos91/netflixfy)**: A clone of Netflix featuring user authentication, movie streaming, and recommendations.
+- **[Weather App](https://github.com/Chronos91/A-Weather-Forecast-App)**: A weather application providing real-time weather updates and forecasts.
+- **[Social Media App](https://github.com/Chronos91/SocialMediaApp)**: A social media platform with user profiles, posts, and interactions.
+- **[Portfolio Website](https://github.com/Chronos91/Victor-Abuke)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
+- **[AI Blog Generator](https://github.com/Chronos91/AI-blog-generator)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
 
 ![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chronos91&show_icons=true&theme=radical)
 
