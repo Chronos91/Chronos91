@@ -1,12 +1,9 @@
 ### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
 
 ---
-<h1 align="center">I'm Tomi Tokko</h1>
+<h1 align="center">I'm Victor Abuke</h1>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmoCVWQp2d8BNisZVFzKGWQ?label=Connect%20With%20Me%20On%20Youtube&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/TomiTokko3?label=Connect%20With%20Me%20On%20Twitter&style=social)
-
-### Check out my blog:point_right: [Click Here](https://www.codewithtomi.ml/)
+### Check out my portfolio-website :point_right: [Click Here](https://www.victor-abuke.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomitokko&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
