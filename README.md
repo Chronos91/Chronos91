@@ -20,34 +20,11 @@
 - I also write technical articles on [My Blog](https://www.codewithtomi.com/)
 
 ---
-
-### Wanna See My Top Youtube Videos:question::fire:
-- [Python Full Course - Learn Python In 3 Hours](https://www.youtube.com/watch?v=nuC_wmAAG9A)
-- [Python Django Tutorial For Beginners - Full Course](https://www.youtube.com/watch?v=pRNhdI9PVmg)
-- [Roadmap For Learning Django](https://www.youtube.com/watch?v=CtwrEtKCHts)
-- [Django Rest Framework Full Crash Course | Build REST APIs With Django](https://www.youtube.com/watch?v=wv8b3tzShq4)
-- [How To Build A Realtime Chat App With Django](https://www.youtube.com/watch?v=IpAk1Eu52GU)
-
-
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCmoCVWQp2d8BNisZVFzKGWQ?sub_confirmation=1)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCmoCVWQp2d8BNisZVFzKGWQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codewithtomi" height="30" width="40" /></a>
-<a href="mailto:codewithtomi@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="tomitokko" height="30" width="40" /></a>
-<a href="https://twitter.com/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomitokko" height="30" width="40" /></a>
-<a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a>
-<a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a>
-</p>
-
----
-
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitokko&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronos91&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tomitokko&show_icons=true&locale=en" alt="tomitokko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chronos91&show_icons=true&locale=en" alt="chronos91" /></p>
 
 <!--
 **tomitokko/tomitokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
