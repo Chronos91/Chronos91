@@ -1,5 +1,6 @@
-### Hi there, I'm Jane Doe! 👋
-I'm a software developer with expertise in full-stack development. I specialize in Python, particularly with Django, and enjoy building APIs, exploring cloud technologies, and implementing CI/CD practices. Currently, I'm focused on contributing to open source and building my portfolio.
+### Hi there, I'm Victor! 👋
+Python and Django are my go-to tools for building reliable web apps. I’m always interested in improving my code, learning new tools, and exploring cloud technologies.
+I love to build cool things.
 
 ### 🛠️ Tech Stack:
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -8,15 +9,14 @@ I'm a software developer with expertise in full-stack development. I specialize 
 - **CI/CD**: ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### 🏆 Projects I'm Proud Of:
-- **[Cool App](https://github.com/janedoe/coolapp)**: A real-time chat app with user authentication, media sharing, and notifications built using Django.
 - **[Netflix Clone](https://github.com/janedoe/netflix-clone)**: A clone of Netflix featuring user authentication, movie streaming, and recommendations.
 - **[Weather App](https://github.com/janedoe/weather-app)**: A weather application providing real-time weather updates and forecasts.
 - **[Social Media App](https://github.com/janedoe/social-media-app)**: A social media platform with user profiles, posts, and interactions.
 - **[Portfolio Website](https://github.com/janedoe/portfolio)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
 
-![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chronos91&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect:
-- LinkedIn: [Jane Doe](https://linkedin.com/in/janedoe)
-- Twitter: [@janedoe](https://twitter.com/janedoe)
-- Email: jane.doe@example.com
+- LinkedIn: [Victor Abuke](https://www.linkedin.com/in/victor-abuke-5b28a4246/)
+- Twitter: [@Sly](https://x.com/sly2tuff)
+- Email: victorabuke2@gmail.com
