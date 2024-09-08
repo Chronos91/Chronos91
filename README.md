@@ -13,7 +13,7 @@ I love to build cool things.
 - **[Weather App](https://github.com/Chronos91/A-Weather-Forecast-App)**: A weather application providing real-time weather updates and forecasts.
 - **[Social Media App](https://github.com/Chronos91/SocialMediaApp)**: A social media platform with user profiles, posts, and interactions.
 - **[Portfolio Website](https://github.com/Chronos91/Victor-Abuke)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
-- **[AI Blog Generator](https://github.com/Chronos91/AI-blog-generator)**: A personal website showcasing my projects and skills, developed with HTML, CSS, and JavaScript.
+- **[AI Blog Generator](https://github.com/Chronos91/AI-blog-generator)**: A tool that converts YouTube video links into well-written blog posts using AI-powered content generation.
 
 ![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chronos91&show_icons=true&theme=radical)
 
