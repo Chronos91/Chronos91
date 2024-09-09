@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor! 👋
 Python and Django are my go-to tools for building reliable web apps. I’m always interested in improving my code, learning new tools, and exploring cloud technologies.
-I love to build cool things.
+I LOVE TO BUILD COOL THINGS.
 
 ### 🛠️ Tech Stack:
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
